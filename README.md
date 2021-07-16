@@ -1,5 +1,5 @@
 # mj-ui库
-
+基于vue-cli3，封装的UI组件库
 ## Project setup
 ```
 yarn install

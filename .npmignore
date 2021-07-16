@@ -1,0 +1,9 @@
+# 忽略目录,npm上不需要上传源码，只需要dist即可
+examples/
+packages/
+public/
+
+# 忽略指定文件
+vue.config.js
+babel.config.js
+*.map
