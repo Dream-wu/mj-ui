@@ -1,24 +1,16 @@
-# mj-ui
+# mj-ui库
 
 ## Project setup
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
 ```
-yarn serve
+yarn start
 ```
 
-### Compiles and minifies for production
+### 利用vue-cli命令打包组件库
 ```
-yarn build
+yarn lib
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### packages 目录
+组件库
