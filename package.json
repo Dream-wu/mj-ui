@@ -1,5 +1,5 @@
 {
-  "name": "mj-ui",
+  "name": "mj-ui-vue",
   "version": "1.0.0",
   "private": false,
   "main": "dist/mj-ui.umd.min.js",
